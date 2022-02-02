@@ -1,0 +1,49 @@
+
+body{
+   font-family: "Lato", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+}
+
+h1{
+   font-size: 46px;
+   font-weight: 900;
+   line-height: 1.3;
+   color: #1E212C;
+}
+
+.vulputate-text{
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 150%;
+   color: #1E212C;
+}
+
+
+
+.lorem-text{
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 150%;
+   color: #1E212C;
+   text-indent: 30px;
+}
+
+a{
+   font-size: 30px;
+   font-weight: 700;
+   
+}
+
+span{
+
+   text-transform: uppercase;
+   color: #165e54;
+   text-decoration: underline;
+  text-shadow: 10px 10px 30px #1d6359;
+   
+}
+
+
